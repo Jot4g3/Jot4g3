@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou João Gabriel Aguiar de Senna</h1>
+<h1 align="center">Olá 👋, eu sou João Gabriel Aguiar de Sena</h1>
 <h3 align="center">Aluno de Informática do IFCE Campus Fortaleza</h3>
 
 - 🌱 Atualmente estou aprendendo *Swift e SQL*
