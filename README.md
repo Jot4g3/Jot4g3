@@ -7,7 +7,7 @@
 
 - ⚡ Fato legal: *Eu gosto de jogos de corrida e mundo aberto*
 
-  # 🌿 **Versículos de João 14:1-6** 🌿
+  # 🌿 **João 14:1-6** 🌿
 
 > **1.** Não se turbe o vosso coração; credes em Deus, crede também em mim.  
 > **2.** Na casa de meu Pai há muitas moradas. Se não fosse assim, eu vo-lo teria dito; vou preparar-vos lugar.  
