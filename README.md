@@ -7,6 +7,16 @@
 
 - ⚡ Fato legal: *Eu gosto de jogos de corrida e mundo aberto*
 
+  # 🌿 **Versículos de João 14:1-6** 🌿
+
+> **1.** Não se turbe o vosso coração; credes em Deus, crede também em mim.  
+> **2.** Na casa de meu Pai há muitas moradas. Se não fosse assim, eu vo-lo teria dito; vou preparar-vos lugar.  
+> **3.** E se eu for e vos preparar lugar, virei outra vez e vos levarei para mim mesmo, para que onde eu estiver estejais vós também.  
+> **4.** Mesmo vós sabeis para onde vou, e conheceis o caminho.  
+> **5.** Disse-lhe Tomé: Senhor, não sabemos para onde vais; e como podemos saber o caminho?  
+> **6.** Disse-lhe Jesus: **Eu sou o caminho, e a verdade, e a vida. Ninguém vem ao Pai senão por mim.**
+
+
 <h3 align="left"> Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://instagram.com/_.jotage" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/designbolts/free-instagram/256/Active-Instagram-3-icon.png" alt="_.jotage" height="30" width="30" /></a>
