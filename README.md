@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou João Gabriel Aguiar de Senna</h1>
 <h3 align="center">Aluno de Informática do IFCE Campus Fortaleza</h3>
 
-- 🌱 Atualmente estou aprendendo *JS, Node.js. Dart e MongoDB*
+- 🌱 Atualmente estou aprendendo *React.js, Node.js. Dart-Flutter e Segurança Cibernética*
 
 - 📫 Contate-me pelo meu gmail: *gabriel.joao61@aluno.ifce.edu.br*
 
-- ⚡ Fato legal: *Eu gosto de jogos de corrida e mundo aberto*
+- ⚡ Fato legal: *Eu gosto de aviões e de ler a Bíblia*
 
   # 🌿 **João 14:1-6** 🌿
 
@@ -40,6 +40,9 @@
   <a href="https://www.apple.com/br/swift/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968371.png" alt="swift" width="40" height="40"/> 
   </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://storage.googleapis.com/cms-storage-bucket/flutter-logo-white.ec64036b4eacc9f3fd73.svg" alt="sql" width="40" height="40"/> 
+  </a> 
 </p>
 
 
