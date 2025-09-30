@@ -28,6 +28,11 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sql" width="40" height="40"/> 
   </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" alt="sql" width="40" height="40"/> 
+  </a> 
+  <br>
+  
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/128/Java-icon.png" alt="java" width="40" height="40"/> 
   </a> 
@@ -41,7 +46,7 @@
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968371.png" alt="swift" width="40" height="40"/> 
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://storage.googleapis.com/cms-storage-bucket/flutter-logo-white.ec64036b4eacc9f3fd73.svg" alt="sql" width="40" height="40"/> 
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_nqx_sCd8ZIeIcodS0sfeMKJ8rVTslmQHUe_udwGNH2Pg=s900-c-k-c0x00ffffff-no-rj" alt="sql" width="40" height="40"/> 
   </a> 
 </p>
 
