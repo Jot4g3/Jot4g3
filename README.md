@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou João Gabriel Aguiar de Senna</h1>
 <h3 align="center">Aluno de Informática do IFCE Campus Fortaleza</h3>
 
-- 🌱 Atualmente estou aprendendo *React.js, Node.js. Dart-Flutter e Segurança Cibernética*
+- 🌱 Atualmente estou *estudando para o vestibular*
 
 - 📫 Contate-me pelo meu gmail: *gabriel.joao61@aluno.ifce.edu.br*
 
